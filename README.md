@@ -1,46 +1,70 @@
 <h1 align="center">👋 ¡Hola, soy Oscar Cruz!</h1>
 
 <p align="center">
-  <b>Desarrollador Full Stack</b> | Backend con Node.js y Python | Frontend con React y TypeScript  
+  <b>Desarrollador Full Stack en formación</b> | Backend con Python (FastAPI) y Node.js | Frontend con React + TypeScript  
 </p>
-<p align="center">📍 Colombia | 💻 #OpenToWork</p>
+<p align="center">📍 Colombia | 💻 #OpenToWork | 🤝 Disponible para prácticas o contrato de aprendizaje</p>
 
 ---
 
 ### 🚀 Sobre mí
 
-Soy una persona comprometida y apasionada por la tecnología, con una sólida formación en desarrollo de software y un enfoque constante en el aprendizaje y la mejora continua.
+Soy un desarrollador en constante evolución, apasionado por la tecnología y la creación de soluciones digitales útiles y funcionales. Me caracterizo por mi proactividad, adaptabilidad, y fuerte compromiso con el aprendizaje continuo.
 
-Actualmente estudio **Análisis y Desarrollo de Software en el SENA**, donde he desarrollado competencias en programación, modelado de datos, diseño de sistemas, pruebas e implementación de soluciones.
+Actualmente estudio **Análisis y Desarrollo de Software en el SENA**, donde he fortalecido mis conocimientos en desarrollo web, bases de datos, APIs REST, pruebas, modelado de datos y herramientas colaborativas.
 
 ---
 
 ### 🧠 Habilidades Técnicas
 
-**Lenguajes & Frameworks:**
-- 🐍 Python (Flask, FastAPI)
-- 🟨 JavaScript, TypeScript, Node.js
-- ⚛️ React.js, HTML5, CSS3
-- ☕ Java (básico, POO)
+#### **Lenguajes y Frameworks**
+- 🐍 **Python** (FastAPI, Flask, SQLAlchemy)
+- 🟨 **JavaScript / TypeScript** (Node.js, Express.js)
+- ⚛️ **React + Vite**, **HTML5**, **CSS3** (Flexbox, diseño responsivo)
+- 📱 **Flutter** (en formación)
+- ☕ **Java** (POO, básico)
+- 🔧 **PSeInt** (algoritmia y lógica)
 
-**Bases de Datos:**
-- MySQL, SQL Workbench
-- MongoDB
-- Modelado E/R, 3FN, Diccionario de Datos
+#### **Bases de Datos**
+- 🐬 MySQL, SQL Workbench
+- 🍃 MongoDB
+- 🧠 Modelado entidad-relación, normalización (1FN, 2FN, 3FN)
+- 📓 Diccionarios de datos y estructura lógica/física
 
-**Herramientas & Productividad:**
-- Git, GitHub, Git Bash, Git Desktop
-- VS Code, NetBeans, Spyder, XAMPP
-- Excel, Power BI, Google Ads (básico)
-- StarUML, Visual Paradigm, PSeInt, Balsamiq
+#### **Pruebas, APIs y Herramientas**
+- 🔎 **Postman** (pruebas de API REST)
+- 🔐 Autenticación JWT, middlewares de validación
+- 📘 Swagger para documentación de API
+- ⚙️ Git, GitHub, Git Bash, Git Desktop
+- 🧠 Visual Studio Code, NetBeans, Spyder, XAMPP
+
+#### **Prototipado y Diseño**
+- 🧩 StarUML, Visual Paradigm
+- ✏️ Balsamiq (mockups y wireframes)
+- 📊 Excel, Power BI
+
+---
+
+### 💼 Proyectos destacados
+
+#### 🚗 **FPC - Software de Seguimiento de Vehículos en Taller**
+Plataforma web para la gestión, visualización y control del proceso de reparación de vehículos. Incluye funcionalidades como:
+- Reportes con fotos y estado de ingreso/salida del vehículo
+- Roles diferenciados (Administrador, Empleado, Cliente)
+- Chat integrado para seguimiento en tiempo real
+- Gestión de historial, notificaciones y citas
+
+**Stack tecnológico:**  
+🧠 **Backend:** FastAPI + SQLAlchemy + MySQL  
+🎨 **Frontend:** React + Vite + TypeScript + CSS3  
+🧪 **Pruebas:** Postman  
+🗂️ **Documentación:** Swagger, Diccionario de Datos, UML
 
 ---
 
 ### 🎯 Objetivo Profesional
 
-Busco oportunidades como **Full Stack Developer**, **Backend Developer** o **Frontend Developer**, donde pueda aplicar mis conocimientos, aportar a proyectos reales y continuar creciendo profesionalmente.
-
-Estoy abierto a contratos de aprendizaje o prácticas profesionales en empresas del sector tecnológico.
+Mi objetivo es desarrollarme como **Full Stack Developer**, con especial interés en el desarrollo de APIs, aplicaciones web modernas y multiplataforma. Busco oportunidades de prácticas, pasantías o contrato de aprendizaje que me permitan aportar valor real a proyectos, mientras continúo fortaleciendo mis competencias técnicas y profesionales.
 
 ---
 
@@ -48,5 +72,6 @@ Estoy abierto a contratos de aprendizaje o prácticas profesionales en empresas 
 
 - 📧 [oscarcruzsena2006@email.com](mailto:oscarcruzsena2006@email.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/oscarcruz-dev)
-- 💻 [Portafolio](https://github.com/oscarcruz)
+- 💻 [Portafolio y proyectos](https://github.com/oscarcruz)
 
+---
